@@ -1,0 +1,37 @@
+C:\Users\luisp\source\repos\Actividades JM Server\Actividades JM Server\bin\Debug\Actividades JM Server.exe.config
+C:\Users\luisp\source\repos\Actividades JM Server\Actividades JM Server\bin\Debug\Actividades JM Server.exe
+C:\Users\luisp\source\repos\Actividades JM Server\Actividades JM Server\bin\Debug\Actividades JM Server.pdb
+C:\Users\luisp\source\repos\Actividades JM Server\Actividades JM Server\obj\Debug\Actividades_JM_Server.Properties.Resources.resources
+C:\Users\luisp\source\repos\Actividades JM Server\Actividades JM Server\obj\Debug\Actividades JM Server.csproj.GenerateResource.cache
+C:\Users\luisp\source\repos\Actividades JM Server\Actividades JM Server\obj\Debug\Actividades JM Server.exe
+C:\Users\luisp\source\repos\Actividades JM Server\Actividades JM Server\obj\Debug\Actividades JM Server.pdb
+C:\Users\luisp\source\repos\Actividades JM Server\Actividades JM Server\obj\Debug\Actividades_JM_Server.Pantalla_Principal.resources
+C:\Users\luisp\source\repos\Actividades JM Server\Actividades JM Server\bin\Debug\Actividades JM Server.exe.manifest
+C:\Users\luisp\source\repos\Actividades JM Server\Actividades JM Server\bin\Debug\Actividades JM Server.application
+C:\Users\luisp\source\repos\Actividades JM Server\Actividades JM Server\obj\Debug\Actividades JM Server.exe.manifest
+C:\Users\luisp\source\repos\Actividades JM Server\Actividades JM Server\obj\Debug\Actividades JM Server.application
+C:\Users\luisp\source\repos\Actividades JM Server\Actividades JM Server\obj\Debug\Actividades JM Server.csprojAssemblyReference.cache
+C:\Users\luisp\source\repos\Actividades JM Server\Actividades JM Server\obj\Debug\Actividades JM Server.TrustInfo.xml
+D:\00 JM Trabajo\repos\Actividades JM Server\Actividades JM Server\obj\Debug\Actividades JM Server.csproj.AssemblyReference.cache
+D:\00 JM Trabajo\repos\Actividades JM Server\Actividades JM Server\obj\Debug\Actividades_JM_Server.Pantalla_Principal.resources
+D:\00 JM Trabajo\repos\Actividades JM Server\Actividades JM Server\obj\Debug\Actividades_JM_Server.Properties.Resources.resources
+D:\00 JM Trabajo\repos\Actividades JM Server\Actividades JM Server\obj\Debug\Actividades JM Server.csproj.GenerateResource.cache
+D:\00 JM Trabajo\repos\Actividades JM Server\Actividades JM Server\obj\Debug\Actividades JM Server.csproj.CoreCompileInputs.cache
+D:\00 JM Trabajo\repos\Actividades JM Server\Actividades JM Server\obj\Debug\Actividades JM Server.TrustInfo.xml
+D:\00 JM Trabajo\repos\Actividades JM Server\Actividades JM Server\obj\Debug\Actividades JM Server.exe
+D:\00 JM Trabajo\repos\Actividades JM Server\Actividades JM Server\obj\Debug\Actividades JM Server.pdb
+E:\Source\Repos\Actividades JM Server\Actividades JM Server\bin\Debug\Actividades JM Server.exe.config
+E:\Source\Repos\Actividades JM Server\Actividades JM Server\bin\Debug\Actividades JM Server.exe.manifest
+E:\Source\Repos\Actividades JM Server\Actividades JM Server\bin\Debug\Actividades JM Server.application
+E:\Source\Repos\Actividades JM Server\Actividades JM Server\bin\Debug\Actividades JM Server.exe
+E:\Source\Repos\Actividades JM Server\Actividades JM Server\bin\Debug\Actividades JM Server.pdb
+E:\Source\Repos\Actividades JM Server\Actividades JM Server\obj\Debug\Actividades JM Server.csproj.AssemblyReference.cache
+E:\Source\Repos\Actividades JM Server\Actividades JM Server\obj\Debug\Actividades_JM_Server.Pantalla_Principal.resources
+E:\Source\Repos\Actividades JM Server\Actividades JM Server\obj\Debug\Actividades_JM_Server.Properties.Resources.resources
+E:\Source\Repos\Actividades JM Server\Actividades JM Server\obj\Debug\Actividades JM Server.csproj.GenerateResource.cache
+E:\Source\Repos\Actividades JM Server\Actividades JM Server\obj\Debug\Actividades JM Server.csproj.CoreCompileInputs.cache
+E:\Source\Repos\Actividades JM Server\Actividades JM Server\obj\Debug\Actividades JM Server.TrustInfo.xml
+E:\Source\Repos\Actividades JM Server\Actividades JM Server\obj\Debug\Actividades JM Server.exe.manifest
+E:\Source\Repos\Actividades JM Server\Actividades JM Server\obj\Debug\Actividades JM Server.application
+E:\Source\Repos\Actividades JM Server\Actividades JM Server\obj\Debug\Actividades JM Server.exe
+E:\Source\Repos\Actividades JM Server\Actividades JM Server\obj\Debug\Actividades JM Server.pdb

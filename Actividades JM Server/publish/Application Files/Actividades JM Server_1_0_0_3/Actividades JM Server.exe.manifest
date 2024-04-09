@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Actividades JM Server.exe" version="1.0.0.3" publicKeyToken="c5e50264256a7354" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="instantes AI icono.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Actividades JM Server" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Actividades JM Server.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opciones del manifiesto de Control de cuentas de usuario
+          Si quiere cambiar el nivel de Control de cuentas de usuario de Windows, reemplace el
+          nodo requestedExecutionLevel por alguno de los siguientes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Si desea usar la virtualización de archivos y del Registro para la
+         compatibilidad con versiones anteriores, elimine el nodo requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Actividades JM Server.exe" size="848352">
+      <assemblyIdentity name="Actividades JM Server" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>oACY6czUQe4AN9ylF8w9xjKbStzVSLGo4FS/oG/7npg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Actividades JM Server.exe.config" size="306">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>YKTP+38as9QZQjjVzYIrbYqkrfL/p5aI8po84GoTdgc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="instantes AI icono.ico" size="231326">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rQdOvqq0na8lwGXGjPctItLybhlorRB5iYoO/48LIqY=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-ECD492H\luisp" issuerKeyHash="25f4e9865781e26b0899a73c3449d254da5b9fbb" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>+n9Sx2YNNXg+sR1ugRseaD4t7ie7NnIbW/l9fLzK6ic=</DigestValue></Reference></SignedInfo><SignatureValue>Y4Rxyp9uipun4ghWg/puCo5kCMsd+s1JZheCqtBwJS9gMWVt3c4iKcMaU8n+yt0Q637PgG8XXyBodH9fZgteQuQdsDBxCQdh8xVXFQACqzjBa+le6xWpcHPgbnXBOdlT6eHw9Sq6aEFfoJVIuu8FRzNVzEuovNafv88dI0bcoGo=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>2UXUqVKmsFNFNJIvaWphUMjm+OUKbsa3TQFhMFB2h5QPDUlhJg53/q/tu4Fd0XHgItWroolCMUkBsWkZpQERtwTP/5wKvhjjWWvb5zSABMo4YT+LhHcn1ufMIN6lhrLVdCKS4mjmFE59cH6qIhq+BIxVR1G9Rxt9Urh87SnHk50=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="27eacabc7c7df95b1b7236bb27ee2d3e681e1b816e1db13e78350d66c7527ffa" Description="" Url=""><as:assemblyIdentity name="Actividades JM Server.exe" version="1.0.0.3" publicKeyToken="c5e50264256a7354" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-ECD492H\luisp</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>UMVCyVuqGrxBdmai7magp8yJc1ubw6DBGfSvF51Aww4=</DigestValue></Reference></SignedInfo><SignatureValue>H9Vv746malahD5vxL1LUVPEgjpZQfT1z4W22F0R+ENTnw6KfA+AWugTu46cXJsYvvYzVbKXDHKRP4dvKpQDsNDVzNT2lvXx71pbAdoeqarhlm6KW52KVTW4YAwtNFr83U10BV+wYqqx4C9hjgNA1d9v56YrtYHQ2ImeN88wdE2U=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>2UXUqVKmsFNFNJIvaWphUMjm+OUKbsa3TQFhMFB2h5QPDUlhJg53/q/tu4Fd0XHgItWroolCMUkBsWkZpQERtwTP/5wKvhjjWWvb5zSABMo4YT+LhHcn1ufMIN6lhrLVdCKS4mjmFE59cH6qIhq+BIxVR1G9Rxt9Urh87SnHk50=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQZiNKc3DCXYxMcjUPCFARTTANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAEUAQwBEADQAOQAyAEgAXABsAHUAaQBzAHAwHhcNMjAwMjE0MTkxMzEyWhcNMjEwMjE0MDExMzEyWjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAEUAQwBEADQAOQAyAEgAXABsAHUAaQBzAHAwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBANlF1KlSprBTRTSSL2lqYVDI5vjlCm7Gt00BYTBQdoeUDw1JYSYOd/6v7buBXdFx4CLVq6KJQjFJAbFpGaUBEbcEz/+cCr4Y41lr2+c0gATKOGE/i4R3J9bnzCDepYay1XQikuJo5hROfXB+qiIavgSMVUdRvUcbfVK4fO0px5OdAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAPqwGdfQB8aC33fqT/NkBFcBwjDI1vvWJvBTHpRFTMAW7/p5Oickw80tgQiMC1DVxw0y0g6ZeYaGM1H6bRRYpus6UA3cGk5xK+6OiUyunGMBPZNf8DWaOvx54tAG3CDVNUwe5mYKvY8enXyr3WR7u/V5yZOGobaPyihblcHu5K44=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
